@@ -1,0 +1,100 @@
+# Content
+- id: dateFormat
+  translation: "January 2, 2006"
+- id: shortdateFormat
+  translation: "Jan 2, 2006 15:04:05"
+- id: postedOnDate
+  translation: "Postad den {{ . }}"
+- id: lastModified
+  translation: "(Senast redigerad {{ . }})"
+- id: translationsLabel
+  translation: "Andra språk: "
+- id: translationsSeparator
+  translation: ", "
+- id: readMore
+  translation: "Läs mer"
+- id: olderPosts
+  translation: "Äldre inlägg"
+- id: newerPosts
+  translation: "Nyare inlägg"
+- id: previousPost
+  translation: "Förra inlägget"
+- id: nextPost
+  translation: "Nästa inlägg"
+- id: readTime
+  translation: "Minuter"
+- id: words
+  translation: "Ord"
+
+
+# 404 page
+- id: pageNotFoundx
+  translation: "Oops, denna sida existerar inte. (404 error)"
+
+# Footer
+- id: poweredBy # Accepts HTML
+  translation: '<a href="https://gohugo.io">Hugo v{{ .Site.Hugo.Version }}</a> &nbsp;&bull;&nbsp; Tema <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> anpassad efter <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>'
+
+# Navigation
+- id: toggleNavigation
+  translation: "Navigation"
+- id: languageSwitcherLabel
+  translation: "Språk"
+- id: gcseLabelShort
+  translation: "Sök"
+- id: gcseLabelLong
+  translation: "Sök {{ .Site.Title }}"
+- id: gcseClose
+  translation: "Stäng"
+
+# Staticman
+- id: noComment
+  translation: "Ingen kommentar"
+- id: oneComment
+  translation: "Kommentar"
+- id: moreComment
+  translation: "Kommentarer"
+- id: useMarkdown
+  translation: "Du kan använda Markdown syntax"
+- id: yourName
+  translation: "Ditt namn"
+- id: yourEmail
+  translation: "Din e-postadress"
+- id: yourWebsite
+  translation: "Din hemsida"
+
+# Delayed Disqus
+- id: show
+  translation: "Visa"
+- id: comments
+  translation: "Kommentarer" 
+
+# Related posts
+- id: seeAlso
+  translation: "Se även"
+
+# Months
+- id: January
+  translation: "januari"
+- id: February
+  translation: "februari"
+- id: March
+  translation: "mars"
+- id: April
+  translation: "april"
+- id: May
+  translation: "maj"
+- id: June
+  translation: "juni"
+- id: July
+  translation: "juli"
+- id: August
+  translation: "augusti"
+- id: September
+  translation: "september"
+- id: October
+  translation: "oktober"
+- id: November
+  translation: "november"
+- id: December
+  translation: "december"

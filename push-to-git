@@ -1,0 +1,9 @@
+#!/usr/bin/bash
+
+source /home/$USER/.git_token
+REPO="${PWD##*/}"
+
+git add .
+git commit -m "$1"
+git push https://$GIT_TOKEN@github.com/$GIT_USERNAME/$REPO.git
+
