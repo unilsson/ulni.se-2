@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 source /home/$USER/.git_token
 REPO="${PWD##*/}"

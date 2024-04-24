@@ -2,44 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on ulni.se</title>
-    <link>https://www.ulni.se/page/</link>
+    <link>http://localhost:1313/page/</link>
     <description>Recent content in Pages on ulni.se</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>sv</language>
     <managingEditor>unilsson@ipfabriken.se (Ulf Nilsson)</managingEditor>
-    <webMaster>unilsson@ipfabriken.se (Ulf Nilsson)</webMaster><atom:link href="https://www.ulni.se/page/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>unilsson@ipfabriken.se (Ulf Nilsson)</webMaster>
+    <atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CV</title>
-      <link>https://www.ulni.se/page/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>unilsson@ipfabriken.se (Ulf Nilsson)</author>
-      <guid>https://www.ulni.se/page/cv/</guid>
-      <description>Personlig data Ulf Sune Nilsson
-Född i Stockholm, 1969
-E-post: unilsson@ipfabriken.se
-Nuvarande position Expert mobila system, Telia Company AB
-Utbildning Naturvetenskaplig linje, examen Juni, 1988 Military Service: 1988-1989 Filosofie Kandidat i Fysik, Stockholms Universitet, Sverige, Oktober 1, 1993. Avhandlingens titel: &amp;ldquo;Ljusutbredning i en modell för ett inhomogent universum&amp;rdquo; Filosofie Licentiat i Teoretisk Fysik, Stockholms Universitet, Sverige, Maj 31, 1996.Avhandlingens titel: &amp;ldquo;Hypersurface homogeneous and hypersurface self-similar models &amp;ndash; a unified treatment&amp;rdquo; Filosofie Doktor i Teoretisk Fysik, Stockholms Universitet, Sverige, Juni 3, 1998.</description>
+      <link>http://localhost:1313/page/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>unilsson@ipfabriken.se (Ulf Nilsson)</author>
+      <guid>http://localhost:1313/page/cv/</guid>
+      <description>Personlig data Ulf Sune Nilsson&#xA;Född i Stockholm, 1969&#xA;E-post: unilsson@ipfabriken.se&#xA;Nuvarande position Expert mobila system, Telia Company AB&#xA;Utbildning Naturvetenskaplig linje, examen Juni, 1988 Military Service: 1988-1989 Filosofie Kandidat i Fysik, Stockholms Universitet, Sverige, Oktober 1, 1993. Avhandlingens titel: &amp;ldquo;Ljusutbredning i en modell för ett inhomogent universum&amp;rdquo; Filosofie Licentiat i Teoretisk Fysik, Stockholms Universitet, Sverige, Maj 31, 1996.Avhandlingens titel: &amp;ldquo;Hypersurface homogeneous and hypersurface self-similar models &amp;ndash; a unified treatment&amp;rdquo; Filosofie Doktor i Teoretisk Fysik, Stockholms Universitet, Sverige, Juni 3, 1998.</description>
     </item>
-    
     <item>
       <title>Publikationslista</title>
-      <link>https://www.ulni.se/page/publikationslista/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>unilsson@ipfabriken.se (Ulf Nilsson)</author>
-      <guid>https://www.ulni.se/page/publikationslista/</guid>
-      <description>Publikationslista Nilsson U. S. and Uggla C. &amp;ldquo;Spatially self-similar locally rotationally symmetric perfect fluid model s&amp;rdquo;, Classical and Quantum Gravity 13, 6 (Jun 1996), 1601
-Nilsson U. S. and Uggla C. &amp;ldquo;Stationary Bianchi type II perfect fluid models&amp;rdquo;, Journal of Mathematica l Physics 38, 5 (May 1997), 2611&amp;ndash;2615
-Nilsson U. S. and Uggla C. &amp;ldquo;Hypersurface homogeneous and hypersurface self-similar models&amp;rdquo;, Classica l and Quantum Gravity 14, 7 (Jul 1997), 1965</description>
+      <link>http://localhost:1313/page/publikationslista/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>unilsson@ipfabriken.se (Ulf Nilsson)</author>
+      <guid>http://localhost:1313/page/publikationslista/</guid>
+      <description>Publikationslista Nilsson U. S. and Uggla C. &amp;ldquo;Spatially self-similar locally rotationally symmetric perfect fluid model s&amp;rdquo;, Classical and Quantum Gravity 13, 6 (Jun 1996), 1601&#xA;Nilsson U. S. and Uggla C. &amp;ldquo;Stationary Bianchi type II perfect fluid models&amp;rdquo;, Journal of Mathematica l Physics 38, 5 (May 1997), 2611&amp;ndash;2615&#xA;Nilsson U. S. and Uggla C. &amp;ldquo;Hypersurface homogeneous and hypersurface self-similar models&amp;rdquo;, Classica l and Quantum Gravity 14, 7 (Jul 1997), 1965</description>
     </item>
-    
     <item>
       <title>Ulf Nilsson</title>
-      <link>https://www.ulni.se/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>unilsson@ipfabriken.se (Ulf Nilsson)</author>
-      <guid>https://www.ulni.se/page/about/</guid>
-      <description>Den här websajten handlar om Ulf Nilsson; teoretisk fysiker, nätverksarkitekt och utvecklare av 3G,4G, 5G och 6G mobila system. Jag har under nästan 20 år på Telia arbetat med standardisering inom 3GPP, ETSI, IETF och NGMN.
-Jag har doktorerat i Teoretisk Fysik vid Stockholms Universitet och varit Postdoc på Department of Applied Mathematics, University of Waterloo i Ontario, Kanada. Mina forskningsområden var allmän relativitetsteori, kosmologi, stjärnmodeller, självsimilära system, strängteori och lågtemperaturfysik.</description>
+      <link>http://localhost:1313/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>unilsson@ipfabriken.se (Ulf Nilsson)</author>
+      <guid>http://localhost:1313/page/about/</guid>
+      <description>Den här websajten handlar om Ulf Nilsson; teoretisk fysiker, nätverksarkitekt och utvecklare av 3G,4G, 5G och 6G mobila system. Jag har under nästan 20 år på Telia arbetat med standardisering inom 3GPP, ETSI, IETF och NGMN.&#xA;Jag har doktorerat i Teoretisk Fysik vid Stockholms Universitet och varit Postdoc på Department of Applied Mathematics, University of Waterloo i Ontario, Kanada. Mina forskningsområden var allmän relativitetsteori, kosmologi, stjärnmodeller, självsimilära system, strängteori och lågtemperaturfysik.</description>
     </item>
-    
   </channel>
 </rss>

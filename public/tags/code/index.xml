@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>code on ulni.se</title>
-    <link>https://www.ulni.se/tags/code/</link>
-    <description>Recent content in code on ulni.se</description>
+    <title>Code on ulni.se</title>
+    <link>http://localhost:1313/tags/code/</link>
+    <description>Recent content in Code on ulni.se</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>sv</language>
     <managingEditor>unilsson@ipfabriken.se (Ulf Nilsson)</managingEditor>
     <webMaster>unilsson@ipfabriken.se (Ulf Nilsson)</webMaster>
-    <lastBuildDate>Tue, 08 Mar 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ulni.se/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/code/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code Sample</title>
-      <link>https://www.ulni.se/post/2016-03-08-code-sample/</link>
-      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
-      <author>unilsson@ipfabriken.se (Ulf Nilsson)</author>
-      <guid>https://www.ulni.se/post/2016-03-08-code-sample/</guid>
+      <link>http://localhost:1313/post/2016-03-08-code-sample/</link>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate><author>unilsson@ipfabriken.se (Ulf Nilsson)</author>
+      <guid>http://localhost:1313/post/2016-03-08-code-sample/</guid>
       <description>&lt;p&gt;The following are two code samples using syntax highlighting.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
